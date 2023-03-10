@@ -33,16 +33,21 @@ Subir los cambios al repositorio remoto.
 ### Ignorar archivos
 Crear en el repositorio local un fichero llamado privado.txt.
 - touch privado.txt
+
 ![Alt text](capturas/creamos_archivo_privado.png)
+
 Crear en el repositorio local una carpeta llamada privada.
 - mkdir privada
 
 ![Alt text](capturas/creamos_carpeta_privada.png)
+
 Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
 - nano .gitignore
 
 ![Alt text](capturas/creamos_gitignore.png)
+
 ![Alt text](capturas/editando_gitignore.png)
+
 
 ### Añadir fichero 1.txt
 Añadir fichero 1.txt al repositorio local.
