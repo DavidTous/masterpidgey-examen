@@ -2,7 +2,7 @@
 # Repositorio masterpidgey-examen
 ### Crear un repositorio en vuestro GitHub llamado masterpidgey-examen.
 - Creamos el repositorio de examen desde el github
-![Alt text](../Crearrepositorio.png)
+![Alt text](capturas/Crearrepositorio.png)
 ### Clonar vuestro repositio en local.
 - git clone https://github.com/DavidTous/masterpidgey-examen.git
 ![Alt text](../Clonamoselrepositorio.png)
